@@ -1,7 +1,7 @@
 ## Hey, I'm a game dev & an artist!
 
 I'm currently focusing on my education, but I would usually spend my time making a game!
-
+Also, I like D&D and actually playing video games.
 <!--
 **mico398/mico398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
